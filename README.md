@@ -8,6 +8,7 @@ Type in any directory:
 timeleft [TUB-multiplier] [minutes]
 
 TUB-ḿultiplier format: 25 or 5 or 75 or 2
+
 minutes e.g.: 60
 
 multipliers chosen because these are the only relevant ones for TUB
