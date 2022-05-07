@@ -21,6 +21,7 @@ Shebang explained:
 https://stackoverflow.com/questions/7670303/purpose-of-usr-bin-python3-shebang
 
 Created symbolic link from where code lies, to bin directory, for not having to type .py after timeleft using:
+
 sudo ln -s /path/to/your/script.py /usr/bin/script
 
 made executable with sudo chmod +x name_of_file
