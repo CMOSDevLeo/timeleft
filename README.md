@@ -24,4 +24,4 @@ Created symbolic link from where code lies, to bin directory, for not having to 
 
 sudo ln -s /path/to/your/script.py /usr/bin/script
 
-made executable with sudo chmod +x name_of_file
+make script.py executable with sudo chmod +x name_of_file
